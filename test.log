@@ -1,0 +1,936 @@
+DEBUG:root:Round : 1
+DEBUG:root:Number of Owned tiles: 1
+DEBUG:root:Number of border tiles: 0
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 2
+DEBUG:root:Number of Owned tiles: 2
+DEBUG:root:Number of border tiles: 3
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 3
+DEBUG:root:Number of Owned tiles: 2
+DEBUG:root:Number of border tiles: 6
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 4
+DEBUG:root:Number of Owned tiles: 2
+DEBUG:root:Number of border tiles: 6
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 5
+DEBUG:root:Number of Owned tiles: 2
+DEBUG:root:Number of border tiles: 6
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 6
+DEBUG:root:Number of Owned tiles: 3
+DEBUG:root:Number of border tiles: 5
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 7
+DEBUG:root:Number of Owned tiles: 3
+DEBUG:root:Number of border tiles: 8
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 8
+DEBUG:root:Number of Owned tiles: 4
+DEBUG:root:Number of border tiles: 7
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 9
+DEBUG:root:Number of Owned tiles: 4
+DEBUG:root:Number of border tiles: 10
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 10
+DEBUG:root:Number of Owned tiles: 4
+DEBUG:root:Number of border tiles: 10
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 11
+DEBUG:root:Number of Owned tiles: 4
+DEBUG:root:Number of border tiles: 10
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 12
+DEBUG:root:Number of Owned tiles: 4
+DEBUG:root:Number of border tiles: 10
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 13
+DEBUG:root:Number of Owned tiles: 5
+DEBUG:root:Number of border tiles: 8
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 14
+DEBUG:root:Number of Owned tiles: 5
+DEBUG:root:Number of border tiles: 10
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 15
+DEBUG:root:Number of Owned tiles: 7
+DEBUG:root:Number of border tiles: 7
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 16
+DEBUG:root:Number of Owned tiles: 8
+DEBUG:root:Number of border tiles: 11
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 17
+DEBUG:root:Number of Owned tiles: 8
+DEBUG:root:Number of border tiles: 14
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 18
+DEBUG:root:Number of Owned tiles: 8
+DEBUG:root:Number of border tiles: 14
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 19
+DEBUG:root:Number of Owned tiles: 9
+DEBUG:root:Number of border tiles: 12
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 20
+DEBUG:root:Number of Owned tiles: 10
+DEBUG:root:Number of border tiles: 13
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 21
+DEBUG:root:Number of Owned tiles: 10
+DEBUG:root:Number of border tiles: 16
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 22
+DEBUG:root:Number of Owned tiles: 10
+DEBUG:root:Number of border tiles: 16
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 23
+DEBUG:root:Number of Owned tiles: 12
+DEBUG:root:Number of border tiles: 13
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 24
+DEBUG:root:Number of Owned tiles: 12
+DEBUG:root:Number of border tiles: 18
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 25
+DEBUG:root:Number of Owned tiles: 13
+DEBUG:root:Number of border tiles: 17
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 26
+DEBUG:root:Number of Owned tiles: 16
+DEBUG:root:Number of border tiles: 13
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 27
+DEBUG:root:Number of Owned tiles: 17
+DEBUG:root:Number of border tiles: 17
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 28
+DEBUG:root:Number of Owned tiles: 18
+DEBUG:root:Number of border tiles: 19
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 29
+DEBUG:root:Number of Owned tiles: 18
+DEBUG:root:Number of border tiles: 22
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 30
+DEBUG:root:Number of Owned tiles: 18
+DEBUG:root:Number of border tiles: 22
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 31
+DEBUG:root:Number of Owned tiles: 19
+DEBUG:root:Number of border tiles: 20
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 32
+DEBUG:root:Number of Owned tiles: 21
+DEBUG:root:Number of border tiles: 18
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 33
+DEBUG:root:Number of Owned tiles: 22
+DEBUG:root:Number of border tiles: 20
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 34
+DEBUG:root:Number of Owned tiles: 22
+DEBUG:root:Number of border tiles: 22
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 35
+DEBUG:root:Number of Owned tiles: 22
+DEBUG:root:Number of border tiles: 22
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 36
+DEBUG:root:Number of Owned tiles: 25
+DEBUG:root:Number of border tiles: 18
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 37
+DEBUG:root:Number of Owned tiles: 25
+DEBUG:root:Number of border tiles: 24
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 38
+DEBUG:root:Number of Owned tiles: 27
+DEBUG:root:Number of border tiles: 21
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 39
+DEBUG:root:Number of Owned tiles: 28
+DEBUG:root:Number of border tiles: 24
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 40
+DEBUG:root:Number of Owned tiles: 30
+DEBUG:root:Number of border tiles: 22
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 41
+DEBUG:root:Number of Owned tiles: 32
+DEBUG:root:Number of border tiles: 24
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 42
+DEBUG:root:Number of Owned tiles: 33
+DEBUG:root:Number of border tiles: 26
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 43
+DEBUG:root:Number of Owned tiles: 34
+DEBUG:root:Number of border tiles: 26
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 44
+DEBUG:root:Number of Owned tiles: 36
+DEBUG:root:Number of border tiles: 25
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 45
+DEBUG:root:Number of Owned tiles: 37
+DEBUG:root:Number of border tiles: 29
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 46
+DEBUG:root:Number of Owned tiles: 37
+DEBUG:root:Number of border tiles: 32
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 47
+DEBUG:root:Number of Owned tiles: 41
+DEBUG:root:Number of border tiles: 25
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 48
+DEBUG:root:Number of Owned tiles: 41
+DEBUG:root:Number of border tiles: 34
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 49
+DEBUG:root:Number of Owned tiles: 42
+DEBUG:root:Number of border tiles: 32
+DEBUG:root:Number of conquerable tile: 1
+
+
+DEBUG:root:Round : 50
+DEBUG:root:Number of Owned tiles: 42
+DEBUG:root:Number of border tiles: 34
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 51
+DEBUG:root:Number of Owned tiles: 45
+DEBUG:root:Number of border tiles: 28
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 52
+DEBUG:root:Number of Owned tiles: 47
+DEBUG:root:Number of border tiles: 31
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 53
+DEBUG:root:Number of Owned tiles: 48
+DEBUG:root:Number of border tiles: 35
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 54
+DEBUG:root:Number of Owned tiles: 49
+DEBUG:root:Number of border tiles: 36
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 55
+DEBUG:root:Number of Owned tiles: 50
+DEBUG:root:Number of border tiles: 36
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 56
+DEBUG:root:Number of Owned tiles: 50
+DEBUG:root:Number of border tiles: 38
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 57
+DEBUG:root:Number of Owned tiles: 53
+DEBUG:root:Number of border tiles: 33
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 58
+DEBUG:root:Number of Owned tiles: 56
+DEBUG:root:Number of border tiles: 33
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 59
+DEBUG:root:Number of Owned tiles: 56
+DEBUG:root:Number of border tiles: 38
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 60
+DEBUG:root:Number of Owned tiles: 57
+DEBUG:root:Number of border tiles: 37
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 61
+DEBUG:root:Number of Owned tiles: 59
+DEBUG:root:Number of border tiles: 36
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 62
+DEBUG:root:Number of Owned tiles: 59
+DEBUG:root:Number of border tiles: 40
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 63
+DEBUG:root:Number of Owned tiles: 61
+DEBUG:root:Number of border tiles: 35
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 64
+DEBUG:root:Number of Owned tiles: 61
+DEBUG:root:Number of border tiles: 38
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 65
+DEBUG:root:Number of Owned tiles: 63
+DEBUG:root:Number of border tiles: 34
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 66
+DEBUG:root:Number of Owned tiles: 63
+DEBUG:root:Number of border tiles: 38
+DEBUG:root:Number of conquerable tile: 3
+
+
+DEBUG:root:Round : 67
+DEBUG:root:Number of Owned tiles: 63
+DEBUG:root:Number of border tiles: 38
+DEBUG:root:Number of conquerable tile: 5
+
+
+DEBUG:root:Round : 68
+DEBUG:root:Number of Owned tiles: 63
+DEBUG:root:Number of border tiles: 39
+DEBUG:root:Number of conquerable tile: 7
+
+
+DEBUG:root:Round : 69
+DEBUG:root:Number of Owned tiles: 68
+DEBUG:root:Number of border tiles: 33
+DEBUG:root:Number of conquerable tile: 1
+
+
+DEBUG:root:Round : 70
+DEBUG:root:Number of Owned tiles: 68
+DEBUG:root:Number of border tiles: 40
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 71
+DEBUG:root:Number of Owned tiles: 71
+DEBUG:root:Number of border tiles: 33
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 72
+DEBUG:root:Number of Owned tiles: 69
+DEBUG:root:Number of border tiles: 43
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 73
+DEBUG:root:Number of Owned tiles: 69
+DEBUG:root:Number of border tiles: 38
+DEBUG:root:Number of conquerable tile: 5
+
+
+DEBUG:root:Round : 74
+DEBUG:root:Number of Owned tiles: 69
+DEBUG:root:Number of border tiles: 38
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 75
+DEBUG:root:Number of Owned tiles: 70
+DEBUG:root:Number of border tiles: 37
+DEBUG:root:Number of conquerable tile: 0
+
+
+DEBUG:root:Round : 76
+DEBUG:root:Number of Owned tiles: 70
+DEBUG:root:Number of border tiles: 42
+DEBUG:root:Number of conquerable tile: 9
+
+
+DEBUG:root:Round : 77
+DEBUG:root:Number of Owned tiles: 72
+DEBUG:root:Number of border tiles: 39
+DEBUG:root:Number of conquerable tile: 1
+
+
+DEBUG:root:Round : 78
+DEBUG:root:Number of Owned tiles: 77
+DEBUG:root:Number of border tiles: 35
+DEBUG:root:Number of conquerable tile: 8
+
+
+DEBUG:root:Round : 79
+DEBUG:root:Number of Owned tiles: 75
+DEBUG:root:Number of border tiles: 47
+DEBUG:root:Number of conquerable tile: 14
+
+
+DEBUG:root:Round : 80
+DEBUG:root:Number of Owned tiles: 76
+DEBUG:root:Number of border tiles: 41
+DEBUG:root:Number of conquerable tile: 7
+
+
+DEBUG:root:Round : 81
+DEBUG:root:Number of Owned tiles: 76
+DEBUG:root:Number of border tiles: 43
+DEBUG:root:Number of conquerable tile: 4
+
+
+DEBUG:root:Round : 82
+DEBUG:root:Number of Owned tiles: 78
+DEBUG:root:Number of border tiles: 41
+DEBUG:root:Number of conquerable tile: 11
+
+
+DEBUG:root:Round : 83
+DEBUG:root:Number of Owned tiles: 80
+DEBUG:root:Number of border tiles: 41
+DEBUG:root:Number of conquerable tile: 11
+
+
+DEBUG:root:Round : 84
+DEBUG:root:Number of Owned tiles: 84
+DEBUG:root:Number of border tiles: 36
+DEBUG:root:Number of conquerable tile: 4
+
+
+DEBUG:root:Round : 85
+DEBUG:root:Number of Owned tiles: 82
+DEBUG:root:Number of border tiles: 49
+DEBUG:root:Number of conquerable tile: 20
+
+
+DEBUG:root:Round : 86
+DEBUG:root:Number of Owned tiles: 84
+DEBUG:root:Number of border tiles: 41
+DEBUG:root:Number of conquerable tile: 9
+
+
+DEBUG:root:Round : 87
+DEBUG:root:Number of Owned tiles: 86
+DEBUG:root:Number of border tiles: 41
+DEBUG:root:Number of conquerable tile: 11
+
+
+DEBUG:root:Round : 88
+DEBUG:root:Number of Owned tiles: 88
+DEBUG:root:Number of border tiles: 43
+DEBUG:root:Number of conquerable tile: 8
+
+
+DEBUG:root:Round : 89
+DEBUG:root:Number of Owned tiles: 86
+DEBUG:root:Number of border tiles: 53
+DEBUG:root:Number of conquerable tile: 30
+
+
+DEBUG:root:Round : 90
+DEBUG:root:Number of Owned tiles: 86
+DEBUG:root:Number of border tiles: 45
+DEBUG:root:Number of conquerable tile: 9
+
+
+DEBUG:root:Round : 91
+DEBUG:root:Number of Owned tiles: 83
+DEBUG:root:Number of border tiles: 51
+DEBUG:root:Number of conquerable tile: 25
+
+
+DEBUG:root:Round : 92
+DEBUG:root:Number of Owned tiles: 84
+DEBUG:root:Number of border tiles: 45
+DEBUG:root:Number of conquerable tile: 19
+
+
+DEBUG:root:Round : 93
+DEBUG:root:Number of Owned tiles: 80
+DEBUG:root:Number of border tiles: 57
+DEBUG:root:Number of conquerable tile: 24
+
+
+DEBUG:root:Round : 94
+DEBUG:root:Number of Owned tiles: 83
+DEBUG:root:Number of border tiles: 43
+DEBUG:root:Number of conquerable tile: 12
+
+
+DEBUG:root:Round : 95
+DEBUG:root:Number of Owned tiles: 82
+DEBUG:root:Number of border tiles: 56
+DEBUG:root:Number of conquerable tile: 29
+
+
+DEBUG:root:Round : 96
+DEBUG:root:Number of Owned tiles: 83
+DEBUG:root:Number of border tiles: 52
+DEBUG:root:Number of conquerable tile: 10
+
+
+DEBUG:root:Round : 97
+DEBUG:root:Number of Owned tiles: 82
+DEBUG:root:Number of border tiles: 58
+DEBUG:root:Number of conquerable tile: 25
+
+
+DEBUG:root:Round : 98
+DEBUG:root:Number of Owned tiles: 89
+DEBUG:root:Number of border tiles: 40
+DEBUG:root:Number of conquerable tile: 3
+
+
+DEBUG:root:Round : 99
+DEBUG:root:Number of Owned tiles: 88
+DEBUG:root:Number of border tiles: 55
+DEBUG:root:Number of conquerable tile: 20
+
+
+DEBUG:root:Round : 100
+DEBUG:root:Number of Owned tiles: 94
+DEBUG:root:Number of border tiles: 41
+DEBUG:root:Number of conquerable tile: 6
+
+
+DEBUG:root:Round : 101
+DEBUG:root:Number of Owned tiles: 92
+DEBUG:root:Number of border tiles: 57
+DEBUG:root:Number of conquerable tile: 33
+
+
+DEBUG:root:Round : 102
+DEBUG:root:Number of Owned tiles: 96
+DEBUG:root:Number of border tiles: 44
+DEBUG:root:Number of conquerable tile: 6
+
+
+DEBUG:root:Round : 103
+DEBUG:root:Number of Owned tiles: 100
+DEBUG:root:Number of border tiles: 47
+DEBUG:root:Number of conquerable tile: 11
+
+
+DEBUG:root:Round : 104
+DEBUG:root:Number of Owned tiles: 101
+DEBUG:root:Number of border tiles: 54
+DEBUG:root:Number of conquerable tile: 7
+
+
+DEBUG:root:Round : 105
+DEBUG:root:Number of Owned tiles: 103
+DEBUG:root:Number of border tiles: 53
+DEBUG:root:Number of conquerable tile: 17
+
+
+DEBUG:root:Round : 106
+DEBUG:root:Number of Owned tiles: 103
+DEBUG:root:Number of border tiles: 57
+DEBUG:root:Number of conquerable tile: 4
+
+
+DEBUG:root:Round : 107
+DEBUG:root:Number of Owned tiles: 99
+DEBUG:root:Number of border tiles: 68
+DEBUG:root:Number of conquerable tile: 41
+
+
+DEBUG:root:Round : 108
+DEBUG:root:Number of Owned tiles: 95
+DEBUG:root:Number of border tiles: 64
+DEBUG:root:Number of conquerable tile: 27
+
+
+DEBUG:root:Round : 109
+DEBUG:root:Number of Owned tiles: 97
+DEBUG:root:Number of border tiles: 49
+DEBUG:root:Number of conquerable tile: 9
+
+
+DEBUG:root:Round : 110
+DEBUG:root:Number of Owned tiles: 92
+DEBUG:root:Number of border tiles: 65
+DEBUG:root:Number of conquerable tile: 37
+
+
+DEBUG:root:Round : 111
+DEBUG:root:Number of Owned tiles: 89
+DEBUG:root:Number of border tiles: 61
+DEBUG:root:Number of conquerable tile: 48
+
+
+DEBUG:root:Round : 112
+DEBUG:root:Number of Owned tiles: 94
+DEBUG:root:Number of border tiles: 43
+DEBUG:root:Number of conquerable tile: 16
+
+
+DEBUG:root:Round : 113
+DEBUG:root:Number of Owned tiles: 88
+DEBUG:root:Number of border tiles: 68
+DEBUG:root:Number of conquerable tile: 35
+
+
+DEBUG:root:Round : 114
+DEBUG:root:Number of Owned tiles: 87
+DEBUG:root:Number of border tiles: 58
+DEBUG:root:Number of conquerable tile: 41
+
+
+DEBUG:root:Round : 115
+DEBUG:root:Number of Owned tiles: 87
+DEBUG:root:Number of border tiles: 55
+DEBUG:root:Number of conquerable tile: 19
+
+
+DEBUG:root:Round : 116
+DEBUG:root:Number of Owned tiles: 86
+DEBUG:root:Number of border tiles: 63
+DEBUG:root:Number of conquerable tile: 53
+
+
+DEBUG:root:Round : 117
+DEBUG:root:Number of Owned tiles: 83
+DEBUG:root:Number of border tiles: 66
+DEBUG:root:Number of conquerable tile: 26
+
+
+DEBUG:root:Round : 118
+DEBUG:root:Number of Owned tiles: 80
+DEBUG:root:Number of border tiles: 64
+DEBUG:root:Number of conquerable tile: 55
+
+
+DEBUG:root:Round : 119
+DEBUG:root:Number of Owned tiles: 81
+DEBUG:root:Number of border tiles: 57
+DEBUG:root:Number of conquerable tile: 46
+
+
+DEBUG:root:Round : 120
+DEBUG:root:Number of Owned tiles: 75
+DEBUG:root:Number of border tiles: 73
+DEBUG:root:Number of conquerable tile: 34
+
+
+DEBUG:root:Round : 121
+DEBUG:root:Number of Owned tiles: 75
+DEBUG:root:Number of border tiles: 66
+DEBUG:root:Number of conquerable tile: 79
+
+
+DEBUG:root:Round : 122
+DEBUG:root:Number of Owned tiles: 76
+DEBUG:root:Number of border tiles: 58
+DEBUG:root:Number of conquerable tile: 29
+
+
+DEBUG:root:Round : 123
+DEBUG:root:Number of Owned tiles: 73
+DEBUG:root:Number of border tiles: 67
+DEBUG:root:Number of conquerable tile: 60
+
+
+DEBUG:root:Round : 124
+DEBUG:root:Number of Owned tiles: 70
+DEBUG:root:Number of border tiles: 66
+DEBUG:root:Number of conquerable tile: 33
+
+
+DEBUG:root:Round : 125
+DEBUG:root:Number of Owned tiles: 66
+DEBUG:root:Number of border tiles: 68
+DEBUG:root:Number of conquerable tile: 54
+
+
+DEBUG:root:Round : 126
+DEBUG:root:Number of Owned tiles: 64
+DEBUG:root:Number of border tiles: 67
+DEBUG:root:Number of conquerable tile: 25
+
+
+DEBUG:root:Round : 127
+DEBUG:root:Number of Owned tiles: 63
+DEBUG:root:Number of border tiles: 62
+DEBUG:root:Number of conquerable tile: 37
+
+
+DEBUG:root:Round : 128
+DEBUG:root:Number of Owned tiles: 60
+DEBUG:root:Number of border tiles: 69
+DEBUG:root:Number of conquerable tile: 52
+
+
+DEBUG:root:Round : 129
+DEBUG:root:Number of Owned tiles: 53
+DEBUG:root:Number of border tiles: 75
+DEBUG:root:Number of conquerable tile: 69
+
+
+DEBUG:root:Round : 130
+DEBUG:root:Number of Owned tiles: 52
+DEBUG:root:Number of border tiles: 61
+DEBUG:root:Number of conquerable tile: 48
+
+
+DEBUG:root:Round : 131
+DEBUG:root:Number of Owned tiles: 44
+DEBUG:root:Number of border tiles: 73
+DEBUG:root:Number of conquerable tile: 67
+
+
+DEBUG:root:Round : 132
+DEBUG:root:Number of Owned tiles: 44
+DEBUG:root:Number of border tiles: 58
+DEBUG:root:Number of conquerable tile: 59
+
+
+DEBUG:root:Round : 133
+DEBUG:root:Number of Owned tiles: 39
+DEBUG:root:Number of border tiles: 66
+DEBUG:root:Number of conquerable tile: 53
+
+
+DEBUG:root:Round : 134
+DEBUG:root:Number of Owned tiles: 39
+DEBUG:root:Number of border tiles: 49
+DEBUG:root:Number of conquerable tile: 30
+
+
+DEBUG:root:Round : 135
+DEBUG:root:Number of Owned tiles: 39
+DEBUG:root:Number of border tiles: 47
+DEBUG:root:Number of conquerable tile: 21
+
+
+DEBUG:root:Round : 136
+DEBUG:root:Number of Owned tiles: 37
+DEBUG:root:Number of border tiles: 49
+DEBUG:root:Number of conquerable tile: 29
+
+
+DEBUG:root:Round : 137
+DEBUG:root:Number of Owned tiles: 31
+DEBUG:root:Number of border tiles: 56
+DEBUG:root:Number of conquerable tile: 52
+
+
+DEBUG:root:Round : 138
+DEBUG:root:Number of Owned tiles: 28
+DEBUG:root:Number of border tiles: 45
+DEBUG:root:Number of conquerable tile: 32
+
+
+DEBUG:root:Round : 139
+DEBUG:root:Number of Owned tiles: 27
+DEBUG:root:Number of border tiles: 37
+DEBUG:root:Number of conquerable tile: 25
+
+
+DEBUG:root:Round : 140
+DEBUG:root:Number of Owned tiles: 25
+DEBUG:root:Number of border tiles: 35
+DEBUG:root:Number of conquerable tile: 31
+
+
+DEBUG:root:Round : 141
+DEBUG:root:Number of Owned tiles: 24
+DEBUG:root:Number of border tiles: 29
+DEBUG:root:Number of conquerable tile: 25
+
+
+DEBUG:root:Round : 142
+DEBUG:root:Number of Owned tiles: 20
+DEBUG:root:Number of border tiles: 33
+DEBUG:root:Number of conquerable tile: 26
+
+
+DEBUG:root:Round : 143
+DEBUG:root:Number of Owned tiles: 19
+DEBUG:root:Number of border tiles: 24
+DEBUG:root:Number of conquerable tile: 21
+
+
+DEBUG:root:Round : 144
+DEBUG:root:Number of Owned tiles: 20
+DEBUG:root:Number of border tiles: 20
+DEBUG:root:Number of conquerable tile: 2
+
+
+DEBUG:root:Round : 145
+DEBUG:root:Number of Owned tiles: 19
+DEBUG:root:Number of border tiles: 26
+DEBUG:root:Number of conquerable tile: 18
+
+
+DEBUG:root:Round : 146
+DEBUG:root:Number of Owned tiles: 19
+DEBUG:root:Number of border tiles: 24
+DEBUG:root:Number of conquerable tile: 8
+
+
+DEBUG:root:Round : 147
+DEBUG:root:Number of Owned tiles: 19
+DEBUG:root:Number of border tiles: 22
+DEBUG:root:Number of conquerable tile: 6
+
+
+DEBUG:root:Round : 148
+DEBUG:root:Number of Owned tiles: 19
+DEBUG:root:Number of border tiles: 23
+DEBUG:root:Number of conquerable tile: 6
+
+
+DEBUG:root:Round : 149
+DEBUG:root:Number of Owned tiles: 14
+DEBUG:root:Number of border tiles: 34
+DEBUG:root:Number of conquerable tile: 26
+
+
+DEBUG:root:Round : 150
+DEBUG:root:Number of Owned tiles: 13
+DEBUG:root:Number of border tiles: 24
+DEBUG:root:Number of conquerable tile: 15
+
+
+DEBUG:root:Round : 151
+DEBUG:root:Number of Owned tiles: 10
+DEBUG:root:Number of border tiles: 26
+DEBUG:root:Number of conquerable tile: 20
+
+
+DEBUG:root:Round : 152
+DEBUG:root:Number of Owned tiles: 12
+DEBUG:root:Number of border tiles: 15
+DEBUG:root:Number of conquerable tile: 14
+
+
+DEBUG:root:Round : 153
+DEBUG:root:Number of Owned tiles: 8
+DEBUG:root:Number of border tiles: 28
+DEBUG:root:Number of conquerable tile: 24
+
+
+DEBUG:root:Round : 154
+DEBUG:root:Number of Owned tiles: 8
+DEBUG:root:Number of border tiles: 16
+DEBUG:root:Number of conquerable tile: 17
+
+
+DEBUG:root:Round : 155
+DEBUG:root:Number of Owned tiles: 4
+DEBUG:root:Number of border tiles: 22
+DEBUG:root:Number of conquerable tile: 17
+
+
+DEBUG:root:Round : 156
+DEBUG:root:Number of Owned tiles: 4
+DEBUG:root:Number of border tiles: 9
+DEBUG:root:Number of conquerable tile: 8
+
+

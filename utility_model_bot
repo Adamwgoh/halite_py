@@ -2,14 +2,11 @@ import hlt
 from hlt import NORTH, EAST, SOUTH, WEST, STILL, Move, Square
 import random
 import logging
-import percepts
 
 myID, game_map = hlt.get_init()
 hlt.send_init("MyPythonBot")
 
 count = 0
-my_tiles = 0
-own_tiles = []
 ## Colony health inspection
 ## =========================
 ## Total_strength   Total_area_covered  Highest_production_tile
@@ -39,7 +36,7 @@ def get_move(square):
 
     if direction is not None:
         return Move(square, direction)
-    else:
+    else
         return Move(square, STILL)
 
     border = any(neighor.owner != myID for neighbor in game_map.neighbors(square))
@@ -73,22 +70,7 @@ def find_nearest_enemy_direction(square):
 
 while True:
     game_map.get_frame()
-    borders = percepts.get_border_squares(game_map, own_tiles, myID)
     count += 1
-    logging.debug('Round : ' + str(count))
-    own_tiles = []
-    my_tiles = 0 # Spaghetti is served
-    for square in game_map:
-        if square.owner == myID:
-            my_tiles+=1
-            own_tiles.append(square)
-            distance = percepts.get_distance_from_nearest_border(game_map, square, borders)
-            # logging.debug('distance from nearest border: ' + str(distance))
-    conquerable_tiles = percepts.get_conquerable_neighbors(game_map, myID, borders)
-    logging.debug('Number of Owned tiles: ' + str(my_tiles))
-    logging.debug('Number of border tiles: ' + str(len(borders)))
-    logging.debug('Number of conquerable tile: ' + str(len(conquerable_tiles)) + '\n\n')
-
-    moves = [get_move(square) for square in game_map if square.owner == myID]
+    moves = [get_move(square)) for square in game_map if square.owner == myID]
 
     hlt.send_frame(moves)
